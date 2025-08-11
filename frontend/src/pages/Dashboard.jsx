@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 
 const Dashboard = () => {
   const [form, setForm] = useState({
-    Age: "30",
+    Age: "18",
     RestingBP: "120",
     Cholesterol: "180",
     MaxHR: "140",

@@ -28,7 +28,7 @@ HEALTHY_BASELINE = {
     "Age": 30,
     "RestingBP": 120,
     "Cholesterol": 180,
-    "MaxHR": 150,
+    "MaxHR": 140,
     "Oldpeak": 0,
     "Sex": "F",
     "ChestPainType": "ATA",
