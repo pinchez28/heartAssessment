@@ -76,7 +76,7 @@ export default function Register() {
     <div className="auth-container">
       <h2>Register</h2>
       <form className="auth-form" onSubmit={handleSubmit}>
-        <label>Last Name</label>
+        <label>Full Name</label>
         <input name="name" type="text" onChange={handleChange} required />
 
         <label>Email</label>
